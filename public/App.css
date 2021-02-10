@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.search_bar {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+li:hover {
+  background-color: cornsilk;
+}
+
+.title_liste_item {
+  padding-top: 50px;
+  text-align: center;
+}
